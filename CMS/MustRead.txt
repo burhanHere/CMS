@@ -1,0 +1,2 @@
+﻿must install packages from nuget
+1. mysql.data
